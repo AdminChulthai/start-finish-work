@@ -1,5 +1,3 @@
-</body>
-</html>
 <!DOCTYPE html>
 <html lang="th">
 <head>
@@ -8,15 +6,19 @@
     <title>บันทึกเข้า-ออกงาน</title>
     
     <link rel="icon" type="image/png" href="https://i.postimg.cc/x1zXPDk9/images-3.png">
-
     <link rel="apple-touch-icon" href="https://i.postimg.cc/x1zXPDk9/images-3.png"> 
     
     <style>
         body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; }
+        /* เพิ่ม display: block เพื่อแก้ปัญหา scrollbar ซ้อน */
         iframe { width: 100%; height: 100%; border: none; display: block; }
     </style>
 </head>
 <body>
-    <iframe src="https://script.google.com/macros/s/AKfycbzDTopeNg4gR_1nUdZo6jku9rfQmYOBf45TogL-cB8b2IYG-R0GM2FZqLZe5VyHe5w/exec"></iframe>
+    <!-- แก้ไขตรงนี้: เพิ่ม allow="geolocation" เพื่อเปิดสิทธิ์ GPS -->
+    <iframe 
+        src="https://script.google.com/macros/s/AKfycbzPwUlvDuMglgttBl184PrhpWTbXukV4nVSXq6dzND7lXmZtHD5oRS89TMxUyn_Cphw/exec"
+        allow="geolocation">
+    </iframe>
 </body>
 </html>
