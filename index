@@ -1,0 +1,22 @@
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CTF-ยางพารา</title>
+    
+    <link rel="icon" type="image/png" href="https://i.postimg.cc/x1zXPDk9/images-3.png">
+
+    <link rel="apple-touch-icon" href="https://i.postimg.cc/x1zXPDk9/images-3.png"> 
+    
+    <style>
+        body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; }
+        iframe { width: 100%; height: 100%; border: none; display: block; }
+    </style>
+</head>
+<body>
+    <iframe src="https://script.google.com/macros/s/AKfycbzDTopeNg4gR_1nUdZo6jku9rfQmYOBf45TogL-cB8b2IYG-R0GM2FZqLZe5VyHe5w/exec"></iframe>
+</body>
+</html>
